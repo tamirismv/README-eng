@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’ve been developing my skills as test analyst for about a year, focusing on having courses of software quality and programming languages, and working in projects for manual an automatic testing. Now, I wish to align my preview knowledge as chemistry, such as analytical skills, analytical thinking, organization, attention to details and problem resolution skills, to act as QA tester. Currently, my goal is to gain hands-on experience and apply obtained knowledge, accomplishing my career transition to technological area field. ❤️💻</p>
+<p align="left">I’ve been developing my skills as test analyst for about two years, focusing on having courses of software quality and programming languages, and working in projects for manual an automatic testing. Now, I wish to align my preview knowledge as chemistry, such as analytical skills, analytical thinking, organization, attention to details and problem resolution skills, to act as QA tester. Currently, my goal is to gain hands-on experience and apply obtained knowledge, accomplishing my career transition to technological area field. ❤️💻</p>
 
 ###
 
