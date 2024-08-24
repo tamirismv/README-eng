@@ -1,36 +1,24 @@
-<h2 align="left">Hello world! 👋</h2>
+<h1 align="left">Hello World👋</h1>
 
 ###
 
-<p align="left">✨ My name is Tamiris and I am a QA Tester! ✨</p>
+<h2 align="left">About me</h2>
 
 ###
 
-<h3 align="left">About me</h3>
+<p align="left">Hello! I’m Tamiris, a professional passionate about software quality. I have experience in creating and implementing test cases, as well as performing manual and automated testing for web applications and APIs. My background includes using automation tools like Selenium and Cypress, and API testing with Postman and RestAssured.<br><br>With knowledge in Java, Python, and JavaScript, I’m ready to face challenges and contribute to delivering high-quality products. I’m seeking a challenging environment where I can apply and expand my skills, always aiming to ensure excellence and efficiency in software products. My motivation comes from a constant pursuit of improvements and delivering solutions that exceed expectations.<br><br>If you’re looking for someone dedicated and ready to enhance quality, I’m available to explore new opportunities and collaborate with dynamic teams.<br><br>Let’s connect! ❤️💻</p>
 
 ###
 
-<p align="left">I’ve been developing my skills as test analyst for about two years, focusing on having courses of software quality and programming languages, and working in projects for manual an automatic testing. Now, I wish to align my preview knowledge as chemistry, such as analytical skills, analytical thinking, organization, attention to details and problem resolution skills, to act as QA tester. Currently, my goal is to gain hands-on experience and apply obtained knowledge, accomplishing my career transition to technological area field. ❤️💻</p>
+<h2 align="left">Skills</h2>
 
 ###
 
-<h3 align="left">Skills</h3>
+<p align="left">• Programming Languages: Java, Python, JavaScript<br>• Test Automation: Selenium, Cypress, Cucumber<br>• API Testing: Postman, RestAssured<br>• Performance Testing: JMeter<br>• Version Control: GitHub<br>• Project Management: Jira<br>• Agile Methodologies: Scrum, Kanban<br>• Development Tools: Eclipse, Visual Studio Code (VS Code)<br>• Communication: Ability to communicate test results and collaborate with cross-functional teams</p>
 
 ###
 
-<p align="left">Manual and Automatic testing <br>Prepare and execute test cases and scripts <br>Document and evaluate test results<br>Report bugs<br>Knowledge of agile methodology and tools (BDD, Gherkin, Scrum, Kanban…) <br>API tests</p>
-
-###
-
-<h3 align="left">Tools</h3>
-
-###
-
-<p align="left">Eclipse, Postman, VisualCode, Selenium, JUnit, Cucumber, Restassured, Git, Jira</p>
-
-###
-
-<h3 align="left">I code with</h3>
+<h2 align="left">Programming Languages</h2>
 
 ###
 
@@ -39,19 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
-
-###
-
-<h3 align="left">Let's talk? Here's where to find me:</h3>
-
-###
-
-<div align="left">
-  <a href=" https://www.linkedin.com/in/tamiris-munhoz-vieira-b82710149" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
